@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ConvertToUTF8",
+		"Git",
+		"HTML5",
+		"IMESupport",
+		"Japanize",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Sublime Files",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"Theme - Cobalt2",
+		"Theme - Soda SolarizedDark",
+		"Theme - Solarized Space",
+		"TrailingSpaces"
+	]
+}
